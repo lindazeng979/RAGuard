@@ -1,16 +1,4 @@
----
-license: mit
-task_categories:
-- question-answering
-language:
-- en
-pretty_name: RAGuard
-size_categories:
-- 10K<n<100K
----
-
 # Dataset Card for RAGuard
-
 
 ## Dataset Details
 
